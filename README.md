@@ -8,6 +8,4 @@ This repository contains the implementation of a 2D unsteady convection-diffusio
 - **Performance Analysis:** Evaluates the efficiency and accuracy of the reduced model compared to the full-order model (FOM).
 
 
-### Configuration
-Adjust the simulation parameters, including the strength coefficients of the turbines and the final simulation time.
 
