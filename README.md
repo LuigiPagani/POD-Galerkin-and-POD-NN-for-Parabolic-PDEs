@@ -12,4 +12,4 @@ This repository contains two Jupyter notebooks, each dedicated to one of the met
 
 ## Getting Started
 
-To explore these methods, simply open the notebooks in your Jupyter environment and follow along with the code and explanations. The notebooks are designed to be self-contained, with all the necessary steps to replicate the results and gain a deeper understanding of each method.
+To explore these methods, simply open the notebooks in your Jupyter environment and follow along with the code and explanations. To run the notebooks, it is highly recommended to open them in Google Colab using the button provided at the beginning of each Jupyter notebook.
